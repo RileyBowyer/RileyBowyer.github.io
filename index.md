@@ -2,4 +2,3 @@ Welcome to my blog! I'm currently an external student living in Germany and fini
 
 ![My Photo](images/me.jpg)
 
-## Blog Posts

@@ -1,4 +1,5 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Welcome to my blog! I'm currently an external student living in Germany and finishing my degree remotely! I'm finishing an integrated masters and bachelors of engineering, majoring in mechatronics engineering. I'm currently employed in Germany and plan on pursuing further studies in Europe, following the completion of my degree.
 
+![My Photo](images/me.jpg)
