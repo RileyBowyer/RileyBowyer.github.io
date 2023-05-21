@@ -2,7 +2,5 @@
 Welcome to my blog! I'm currently an external student living in Germany and finishing my degree remotely!
 </p>
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
-
-![My Photo](images/me.jpg)
+This blog serves to detail the progress made during the use of fastai and also as a source of exposure into website design, as such, please see [_posts/2023-05-21-5markdowntest.md](this post) for an example of my mastery.
 
