@@ -31,8 +31,8 @@
   }
 </style>
 
+# Markdown meets HTML
 <body>
-  <h1>Graphic Design is my Passion</h1>
   <div class="image-container">
     <img class="image" src="/image/me.jpg" alt="Graphic Design is my Passion">
   </div>
