@@ -59,18 +59,3 @@
 }
 
 .codecell table { width: auto; }
-
-// use colors
-body {
-  // just for presentation
-  font-family: Arial;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-
-  // here the css variables are used
-  color: #f5f5f5;
-  background: #404040;
-}
